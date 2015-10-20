@@ -2,6 +2,8 @@
 use strict;
 use warnings;
 
+# simple Perl script for test different data structures.
+#
 # all elements in an indexed array are scalar values
 # when defining data objects scalar, array or hash, must use package 
 my @array = (12,13,14);
