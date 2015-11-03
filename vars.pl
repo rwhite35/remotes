@@ -4,6 +4,7 @@ use warnings;
 
 # simple Perl script for test different data structures.
 # version 1.0, 2015-10-20
+# Another comment
 #
 # all elements in an indexed array are scalar values
 # when defining data objects scalar, array or hash, must use package 
